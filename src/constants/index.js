@@ -83,18 +83,14 @@ const services = [
 ];
 
 const technologies = [
-	{
-		name: "NLP",
-		icon: nlp,
-	},
-	{
-		name: "HTML 5",
-		icon: html,
-	},
-	{
-		name: "CSS 3",
-		icon: css,
-	},
+	// {
+	// 	name: "HTML 5",
+	// 	icon: html,
+	// },
+	// {
+	// 	name: "CSS 3",
+	// 	icon: css,
+	// },
 	{
 		name: ".NET",
 		icon: dotnet,
@@ -102,10 +98,6 @@ const technologies = [
 	{
 		name: "Python",
 		icon: python,
-	},
-	{
-		name: "PostgreSQL",
-		icon: postgres,
 	},
 	{
 		name: "AI",
@@ -116,13 +108,17 @@ const technologies = [
 		icon: ml,
 	},
 	{
-		name: "Slack",
-		icon: slack,
+		name: "NLP",
+		icon: nlp,
 	},
-	{
-		name: "JavaScript",
-		icon: javascript,
-	},
+	// {
+	// 	name: "Slack",
+	// 	icon: slack,
+	// },
+	// {
+	// 	name: "JavaScript",
+	// 	icon: javascript,
+	// },
 	{
 		name: "TypeScript",
 		icon: typescript,
@@ -131,10 +127,10 @@ const technologies = [
 		name: "React JS",
 		icon: reactjs,
 	},
-	{
-		name: "Redux Toolkit",
-		icon: redux,
-	},
+	// {
+	// 	name: "Redux Toolkit",
+	// 	icon: redux,
+	// },
 	{
 		name: "Tailwind CSS",
 		icon: tailwind,
@@ -148,17 +144,21 @@ const technologies = [
 		icon: mongodb,
 	},
 	{
-		name: "Three JS",
-		icon: threejs,
+		name: "PostgreSQL",
+		icon: postgres,
 	},
+	// {
+	// 	name: "Three JS",
+	// 	icon: threejs,
+	// },
 	{
 		name: "git",
 		icon: git,
 	},
-	{
-		name: "figma",
-		icon: figma,
-	},
+	// {
+	// 	name: "figma",
+	// 	icon: figma,
+	// },
 	{
 		name: "docker",
 		icon: docker,
